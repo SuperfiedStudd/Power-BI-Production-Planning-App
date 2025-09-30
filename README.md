@@ -63,11 +63,11 @@ Compares production completion times across lines to reveal inefficiencies and g
 
 ## Screenshots  
 
-### Vendor Delivery Performance  
-![Vendor Delivery](https://github.com/SuperfiedStudd/Power-BI-Production-Planning-App/blob/main/docs/vendor_delivery.png?raw=true)  
+### Dashboard Overview  
+![Vendor Delivery](https://github.com/SuperfiedStudd/Power-BI-Production-Planning-App/blob/main/docs/dashboard_overview.png?raw=true)  
 
 ### Production Lead Time  
-![Production Lead Time](https://github.com/SuperfiedStudd/Power-BI-Production-Planning-App/blob/main/docs/production_leadtime.png?raw=true)  
+![Production Lead Time](https://github.com/SuperfiedStudd/Power-BI-Production-Planning-App/blob/main/docs/productionleadtime.png?raw=true)  
 
 ---
 
